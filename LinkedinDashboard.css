@@ -1,0 +1,196 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.background{
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+.Backgroundsection{
+    height: 100%;
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+    background-color: white;
+}
+.topbar{
+    height: 50px;
+    width: 100%;
+    float: left;
+    border-radius: 10px;
+}
+.logo{
+    height: 100%;
+    width: 15%;
+    float: left;
+    box-sizing: border-box;
+}
+.job{
+    height: 70%;
+    width: 10%;
+    float: left;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border: none;
+   
+}
+.Dashboard{
+    height: 70%;
+    width: 20%;
+    float: left;
+    border: 1px solid black;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    background-color: rgb(178, 178, 178);
+}
+.searchicon{
+    height: 70%;
+    width: 5%;
+    float: left;
+    border: 1px solid black;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 0px;
+    background-color: rgb(178, 178, 178);
+    border-collapse: collapse;
+}
+.bordersingup{
+    height: 70%;
+    width: 70%;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-left: 15%;
+}
+.menuanytime{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+.part1{
+    height: 100%;
+    width: 50%;
+    border-right: 1px solid black;
+    overflow-y: scroll;
+    float: left;
+    box-sizing: border-box;
+}
+.part2{
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.emptyspace{
+    height: 10px;
+    width: 100%;
+    float: left;
+}
+.notifydiv{
+    height: 50px;
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px;
+}
+.notifydivorg{
+    height: 50px;
+    width: 90%;
+    float: left;
+    border-radius: 10px;
+}
+
+.toggle{
+    height: 50px;
+    width: 10%;
+    float: left;
+    border-radius: 10px;
+}
+.dashjobs{
+    height: 40px;
+    width: 100%;
+    float: left;
+}
+.Adddiv{
+    height: 170px;
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+    background-color: red;
+}
+.Adddiv1{
+    height: 170px;
+    width: 100%;
+    float: left;
+    background-color: red;
+}
+.vertdiv{
+    height: 100%;
+    width: 15%;
+    float: left;
+    background-color: rgb(211, 238, 239);
+}
+.vertdiv1{
+    height: 100%;
+    width: 15%;
+    float: left;
+    background-color: white;
+}
+
+.appledivback{
+    height: 50px;
+    width: 80%;
+    float: left;
+    margin-left: 20%;
+    margin-top: 20%;
+    background-color: white;
+}
+.hordiv{
+    height: 100%;
+    width:85%;
+    float: left;
+    background-color:  rgb(211, 238, 239);
+}
+.hordiv1{
+    height: 100%;
+    width:85%;
+    float: left;
+    background-color:  white;
+}
+.infoadd{
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+.part2{
+    height: 100%;
+    width: 50%;
+    float: right;
+    overflow: scroll;
+
+}
+.iconsaddinfo{
+    height: 100%;
+    width:20%;
+    float: left;
+}
+.iconsaddinfo1{
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+.infoaboutcomp{
+    height: 200px;
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 0px 0px 10px 10px;
+}
+
+
